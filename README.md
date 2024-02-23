@@ -1,2 +1,2 @@
 # MathQuest
-This is a 2D educational game to allow the user to traverse through a virtual level and solve math problems to progress. You can choose the difficulty of the level by selecting any from 3 grade levels.
+This is a 2D educational game to allow the user to traverse through a virtual level and solve math problems to progress. You can choose the difficulty of the level by selecting any from 3 grade levels. The project is created in Python using the Pygame library. There is also a main menu that gives the user a how to play section and setting that allows them to change the grade level of the game. The question given is also random.
